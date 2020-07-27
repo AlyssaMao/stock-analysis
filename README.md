@@ -289,11 +289,11 @@ End Sub
 
 ## Summary
 
-**What are the advantages or disadvantages of refactoring code?*
+**What are the advantages or disadvantages of refactoring code?**
 
 The advantages of refactoring code is that the coder may discover a more efficient, cleaner, and space saving method by which a refactored code can reach the same results as the original code. Additionally, a refactored code may even increase performance by having a lower run time than the original code. The disadvantage of refactoring code is opportunity cost, since the benefit reaped from the refactored code may not outweigh the time consumed to create it. 
 
 **How do these pros and cons apply to refactoring the original VBA script?**
 
-Based on my analysis of the plays campaign outcomes based on goals, I noticed that none of the campaigns were canceled; they either succeeded to meet their targets or failed. Additionally, campaigns that were less than $1000 had the highest percentage of success, whereas campaigns greater than $45,000 and less than $49,999 had the highest percentage of failure. Based on this, we can say that, generally speaking, campaigns with lower dollar goals tend to be more successful than campaigns that were very expensive. 
+Based on my results, it may seem that the cons of refactoring the original VBA code in module 2 was that it ended up making the run time longer than the original and so we put forth a lot of time into refactoring the code but getting very little benefits. However, this is only at first glance. If Steve were to look at more stock and more data, the fact that the refactored code utilizes a set of arrays to save data for each ticker may actually help us reduce the run time long term, making this code a much more scalable approach to analyzing stock data. 
 
