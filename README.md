@@ -7,8 +7,8 @@ The purpose of this analysis is to assist Steve in analyzing 2017 and 2018 stock
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Module 
-![2017 Run time based on Module](Resources/Module2-2017time.jpg) 
-![2017 Run time based on Module](Resources/Challenge2-2017time.jpg) 
+![2017 Run time based on Module](Resources/Module2-2017time.png) 
+![2017 Run time based on Module](Resources/Challenge2-2017time.png) 
 >[Contributing Spreadsheet for this Analysis](Kickstarter_Challenge.xlsx.xlsx)
 
 I performed an analysis of theater outcomes based on their month of launch as depicted in the image above by creating a pivot chart (line graph) in Excel for the Parent Category "theater" and graphing the trend by months to see the number of successful, failed, and canceled theater campaigns in each given month. 
